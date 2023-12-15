@@ -24,8 +24,6 @@
 ### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Vivek2222&label=Profile%20Views&color=0&pretty=false" />
-</a>
+###Vistior count
+[![](https://visitcount.itsvg.in/api?id=Vivek2222&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
