@@ -29,5 +29,5 @@
   <img src="https://visitcount.itsvg.in/api?id=Vivek2222&label=Profile%20Views&color=0&pretty=false" />
 </a>
 ![](https://visitcount.itsvg.in/api?id=Vivek2222&label=Profile%20Views&color=0&pretty=false)
-
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=Vivek2222)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
