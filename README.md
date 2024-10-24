@@ -26,5 +26,4 @@
 
 #
 [![](https://visitcount.itsvg.in/api?id=Vivek2222&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
-/*[![](https://visitcount.itsvg.in/api?id=Vivek2222&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)*/
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
